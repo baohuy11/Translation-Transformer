@@ -99,10 +99,6 @@ The `research` directory contains:
 - Attention visualization notebooks
 - Experimental trials and results
 
-## License
-
-[Your chosen license]
-
 ## Acknowledgments
 
 - Based on the original Transformer paper: "Attention is All You Need" by Vaswani et al.
